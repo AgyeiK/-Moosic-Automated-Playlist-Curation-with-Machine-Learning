@@ -53,7 +53,7 @@ This prototype was evaluated against two primary business questions:
 
 ---
 
-🚀 How to Use This Repository
+## 🚀 How to Use This Repository
 For the Technical Review: Open the Moosic_Analysis.ipynb file. This notebook contains the code used to scale the data, reduce dimensions via PCA, and generate the 50 refined playlists. You can see the specific audio "DNA" of the clusters here.
 
 For the Business Stakeholders: Download and open Moosic_Strategy_Presentation.pptx. This slide deck translates the complex math (like the Elbow Method and Explained Variance) into a business strategy for scaling Moosic's curation.
